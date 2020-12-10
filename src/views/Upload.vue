@@ -337,7 +337,7 @@ export default {
       this.uploadStatus.uploading = true;
 
       const data = {
-        'message': 'Upload pictures via PicX[picx.xpoet.cn]',
+        'message': 'Upload pictures via PicX',
         'branch': selectedBranch,
         'content': this.imgData.base64Content
       }

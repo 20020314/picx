@@ -99,7 +99,7 @@ export default {
             owner: this.userConfigInfo?.owner,
             repo: this.userConfigInfo?.selectedRepos,
             path: imageObj.path,
-            message: 'delete pictures via PicX[picx.xpoet.cn]',
+            message: 'delete pictures via PicX',
             sha: imageObj.sha
           }
         }
